@@ -39,6 +39,12 @@
 | **🖼️ Segmentation** | [Segment with SAM-2](https://github.com/roboflow-ai/notebooks/blob/main/notebooks/how-to-segment-images-with-sam-2.ipynb) | [![Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/roboflow-ai/notebooks/blob/main/notebooks/how-to-segment-images-with-sam-2.ipynb) [![Kaggle](https://kaggle.com/static/images/open-in-kaggle.svg)](https://kaggle.com/kernels/welcome?src=https://github.com/roboflow-ai/notebooks/blob/main/notebooks/how-to-segment-images-with-sam-2.ipynb) | 📝 [Blog](https://blog.roboflow.com/what-is-segment-anything-2/) • 💻 [GitHub](https://github.com/facebookresearch/segment-anything-2) |
 
 ---
+## 📸 Computer Vision Skills (21+ Notebooks)
+| Notebook | Platforms | Resources | Repository |
+|----------|-----------|-----------|------------|
+| [Football AI](https://github.com/roboflow-ai/notebooks/blob/main/notebooks/football-ai.ipynb) | [![Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/roboflow-ai/notebooks/blob/main/notebooks/football-ai.ipynb) [![Kaggle](https://kaggle.com/static/images/open-in-kaggle.svg)](https://kaggle.com/kernels/welcome?src=https://github.com/roboflow-ai/notebooks/blob/main/notebooks/football-ai.ipynb) | 📝 [Blog](https://blog.roboflow.com/camera-calibration-sports-computer-vision/) • ▶️ [Video](https://youtu.be/aBVGKoNZQUw) | 💻 [GitHub](https://github.com/roboflow/sports) |
+| [Auto-Annotate with GroundedSAM 2](https://github.com/roboflow-ai/notebooks/blob/main/notebooks/grounded-sam-2-auto-label.ipynb) | [![Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/roboflow-ai/notebooks/blob/main/notebooks/grounded-sam-2-auto-label.ipynb) [![Kaggle](https://kaggle.com/static/images/open-in-kaggle.svg)](https://kaggle.com/kernels/welcome?src=https://github.com/roboflow-ai/notebooks/blob/main/notebooks/grounded-sam-2-auto-label.ipynb) | 📝 [Blog](https://blog.roboflow.com/what-is-segment-anything-2) | 💻 [GitHub](https://github.com/facebookresearch/segment-anything-2) |
+---
 
 ## 🌟 Latest Releases
 | Model | Highlights |
