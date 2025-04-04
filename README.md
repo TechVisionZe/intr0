@@ -25,6 +25,13 @@
 
 [![Open in GitHub](https://img.shields.io/badge/View_Repository-2CA5E0?style=for-the-badge&logo=github)](https://github.com/TechVisionZe/visionze)
 
+## 🚀 Featured Tutorials
+
+| Model | Task | Difficulty | Platforms | Resources | Metrics |
+|-------|------|------------|-----------|-----------|---------|
+| **[RF-DETR](https://github.com/roboflow-ai/notebooks)**<br>_Transformer Detection_ | 🎯 Object Detection | ⭐⭐ | [![Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/roboflow-ai/notebooks) [![Kaggle](https://kaggle.com/static/images/open-in-kaggle.svg)](https://kaggle.com/kernels) | 📝 [Blog](https://blog.roboflow.com/rf-detr)<br>💻 [GitHub](https://github.com/roboflow/rf-detr) | 92% Accuracy<br>2h Training |
+| **[YOLOv12](https://github.com/roboflow-ai/notebooks)**<br>_Ultra-Fast Detection_ | 🎯 Object Detection | ⭐⭐ | [![Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/roboflow-ai/notebooks) [![Kaggle](https://kaggle.com/static/images/open-in-kaggle.svg)](https://kaggle.com/kernels) | 📝 [Benchmarks](https://blog.roboflow.com/yolov12)<br>🛠️ [GitHub](https://github.com/sunsmarterjie/yolov12) | 8ms Latency<br>1.2K Votes |
+
 ---
 
 ## 🌟 Highlighted Work
