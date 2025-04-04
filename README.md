@@ -40,6 +40,15 @@
 
 ---
 
+## 🌟 Latest Releases
+| Model | Highlights |
+|-------|------------|
+| **[GPT-4o](https://github-link)** | OpenAI’s multimodal detection |
+| **[YOLO11](https://github-link)** | Next-gen YOLO architecture |
+| **[SAM-2](https://github-link)** | Meta’s advanced segmentation |
+
+---
+
 ## 🌟 Highlighted Work
 
 | Project | Type | Description | Tech Stack |
